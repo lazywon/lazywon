@@ -1,6 +1,6 @@
-### Hello Wrold ! 👋 
+### Hello World ! 👋 
 
-👩‍💻 Frontend Developer
+👩‍💻 Frontend Web Developer
 
 ---
 
